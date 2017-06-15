@@ -41,7 +41,7 @@
     "url": "https://github.com/GitbookIO/nuts.git"
   },
   "scripts": {
-    "start": "node bin/web.js",
+    "start": "node lib/index.js",
     "test": "mocha --reporter list"
   },
   "engines": {
